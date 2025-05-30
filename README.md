@@ -3,7 +3,7 @@ Deployment of a Scalable Web Application on AWS
 
 ## Table of Contents
  - [Overview](#overview)
- - [Archeticture Diagram](archeticture-diagram)
+ - [Archeticture Diagram](#archeticture-diagram)
  - [](deployment)
 
 
